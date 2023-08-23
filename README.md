@@ -12,9 +12,9 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning **SwiftUI**, **and Server Side Swifting with Vapor**
 - 📖 I am currently reading **Advanced iOS App Architecture** by Raywenderlich.
-- 💬 Talk to me about iOS, Swift, Reading and any tech nerds stuff.
+- 💬 Talk to me about iOS, Swift, Reading and random tech nerds stuff.
 - 📫 How to reach me **hossamelbahrawy52@gmail.com**
-- 📄 Know about my experiences [Hossam-Elbahrawy C.V](https://github.com/Hossam-Elbahrawy/Hossam-Elbahrawy/blob/a435b069216b9c23206426a2a855a0c457a829e3/Hossam%20El-Bahrawy%20-%20iOS%20Engineer%20CV.pdf)
+- 📄 Know about my experiences [Hossam-Elbahrawy CV](https://github.com/Hossam-Elbahrawy/Hossam-Elbahrawy/blob/a435b069216b9c23206426a2a855a0c457a829e3/Hossam%20El-Bahrawy%20-%20iOS%20Engineer%20CV.pdf)
 
 <br />
 
@@ -24,6 +24,7 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) 
 ![SwiftUI](https://img.shields.io/badge/Swiftui-%2302569B.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Cocoapods](https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white)
+![Vapor](https://img.shields.io/badge/Vapor-%2320232a.svg?style=for-the-badge&logo=vapor&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -34,7 +35,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Sentry](https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59)

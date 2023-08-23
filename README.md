@@ -39,8 +39,3 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Sentry](https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59)
 ![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
-
-<br />
-
-# 📊 GitHub Stats:
-![Hossam-Elbahrawy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-Elbahrawy&theme=dark&show_icons=true&hide_border=true)

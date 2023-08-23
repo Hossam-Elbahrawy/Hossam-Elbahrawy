@@ -43,4 +43,4 @@
 <br />
 
 # 📊 GitHub Stats:
-![Hossam-Elbahrawy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-Elbahrawy&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Hossam-Elbahrawy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-Elbahrawy&theme=dark&show_icons=true&hide_border=true)

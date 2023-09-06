@@ -1,5 +1,5 @@
 
-## Hi 👋, I'm Hossam El-Bahrawy! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Hi 👋, I'm Hossam Bahrawy! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <img align='right' src="https://sticker-collection.com/stickers/plain/HackerBoyStickers/512/e98bd111-0a21-430b-af9a-51037bdec587file_2965514.webp" width="230">
 
@@ -8,13 +8,13 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/Hossam-Elbahrawy/)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm iOS Software Enginner working at [Solutions by stc](https://www.linkedin.com/company/solutionsbystc/mycompany)
+- 🏦 I'm an iOS Software Engineer working at [Solutions by stc](https://www.linkedin.com/company/solutionsbystc/mycompany)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning **SwiftUI**, **and Server Side Swifting with Vapor**
 - 📖 I am currently reading **Advanced iOS App Architecture** by Raywenderlich.
-- 💬 Talk to me about iOS, Swift, Reading and random tech nerds stuff.
+- 💬 Talk to me about iOS, Swift, Reading, and random tech nerds stuff.
 - 📫 How to reach me **hossamelbahrawy52@gmail.com**
-- 📄 Know about my experiences [Hossam-Elbahrawy CV](https://github.com/Hossam-Elbahrawy/Hossam-Elbahrawy/blob/a435b069216b9c23206426a2a855a0c457a829e3/Hossam%20El-Bahrawy%20-%20iOS%20Engineer%20CV.pdf)
+- 📄 Know about my experiences [Hossam-Bahrawy CV](https://github.com/Hossam-Elbahrawy/Hossam-Elbahrawy/blob/a435b069216b9c23206426a2a855a0c457a829e3/Hossam%20El-Bahrawy%20-%20iOS%20Engineer%20CV.pdf)
 
 <br />
 

@@ -14,7 +14,7 @@
 - 📖 I am currently reading **Advanced iOS App Architecture** by Raywenderlich.
 - 💬 Talk to me about iOS, Swift, Reading, and random tech nerds stuff.
 - 📫 How to reach me **hossamelbahrawy52@gmail.com**
-- 📄 Know about my experiences [Hossam-Bahrawy CV](https://github.com/Hossam-Elbahrawy/Hossam-Elbahrawy/blob/a435b069216b9c23206426a2a855a0c457a829e3/Hossam%20El-Bahrawy%20-%20iOS%20Engineer%20CV.pdf)
+- 📄 Know about my experiences [Hossam-Bahrawy CV](https://github.com/Hossam-Elbahrawy/Hossam-Elbahrawy/blob/b571987a53f9df8a4b7f703077a9867e7403a5ee/Hossam%20Bahrawy%20iOS%20CV.pdf)
 
 <br />
 

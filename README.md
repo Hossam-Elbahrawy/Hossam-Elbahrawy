@@ -11,7 +11,7 @@
 - 🏦 I'm an iOS Software Engineer working at [Solutions by stc](https://www.linkedin.com/company/solutionsbystc/mycompany)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning **SwiftUI**, **and Server Side Swifting with Vapor**
-- 📖 I am currently reading **Advanced iOS App Architecture** by Raywenderlich.
+- 📖 I am currently reading **Asynchronous Programming with SwiftUI and Combine** by Peter Friese.
 - 💬 Talk to me about iOS, Swift, Reading, and random tech nerds stuff.
 - 📫 How to reach me **hossamelbahrawy52@gmail.com**
 - 📄 Know about my experiences [Hossam-Bahrawy CV](https://github.com/Hossam-Elbahrawy/Hossam-Elbahrawy/blob/b571987a53f9df8a4b7f703077a9867e7403a5ee/Hossam%20Bahrawy%20iOS%20CV.pdf)

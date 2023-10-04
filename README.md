@@ -4,9 +4,12 @@
 <img align='right' src="https://sticker-collection.com/stickers/plain/HackerBoyStickers/512/e98bd111-0a21-430b-af9a-51037bdec587file_2965514.webp" width="230">
 
 [![Linkedin: hossam-elbahrawy](https://img.shields.io/badge/-hossam.bahrawy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hossam-bahrawy/)](https://www.linkedin.com/in/hossam-bahrawy/)
-[![GitHub: Hossam-Elbahrawy](https://img.shields.io/github/followers/hossam-elbahrawy?label=follow&style=social)](https://github.com/Hossam-Elbahrawy)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/Hossam-Elbahrawy/)
 [![Goodreads](https://img.shields.io/badge/-Goodreads-FFA116?style=flat&logo=Goodreads&logoColor=black)](https://www.goodreads.com/user/show/28148177-hossam-elbahrawy)
+
+[![GitHub: Hossam-Elbahrawy](https://img.shields.io/github/followers/hossam-elbahrawy?label=follow&style=social)](https://github.com/Hossam-Elbahrawy)
+![](https://komarev.com/ghpvc/?username=your-Hossam-ELbahrawy&style=flat)
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 iOS Software Engineer with a Bachelor's degree in Computer Engineering.
 - 💼 Currently working as an iOS | Flutter Software Engineer at [Solutions by stc](https://www.linkedin.com/company/solutionsbystc/mycompany)

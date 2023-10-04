@@ -13,7 +13,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 Actively learning **SwiftUI**, **and Server Side Swifting with Vapor**
 - 📖 Reading **Asynchronous Programming with SwiftUI and Combine** by Peter Friese.
-- 💬 Talk to me about iOS, Swift, Books 📚, Video Games 🎮, and random tech nerds stuff 🤓. 
+- 💬 Talk to me about iOS, Books 📚, Video Games 🎮, and random tech nerds stuff 🤓. 
 - 📫 Reach me on hossamelbahrawy52@gmail.com
 - 📄 Know about my experiences [Hossam-Bahrawy CV](https://github.com/Hossam-Elbahrawy/Hossam-Elbahrawy/blob/b571987a53f9df8a4b7f703077a9867e7403a5ee/Hossam%20Bahrawy%20iOS%20CV.pdf)
 

@@ -12,7 +12,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 iOS Software Engineer with a Bachelor's degree in Computer Engineering.
-- 💼 Currently working as an iOS | Flutter Software Engineer at [Solutions by stc](https://www.linkedin.com/company/solutionsbystc/mycompany)
+- 💼 Currently working as an iOS Software Engineer at [Microsoft](https://www.linkedin.com/company/microsoft/)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 Actively learning **SwiftUI**, **and Server Side Swifting with Vapor**
 - 📖 Reading **Asynchronous Programming with SwiftUI and Combine** by Peter Friese.

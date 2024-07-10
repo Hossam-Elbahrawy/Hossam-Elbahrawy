@@ -12,9 +12,9 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 iOS Software Engineer with a Bachelor's degree in Computer Engineering.
-- 💼 Currently working as an iOS Software Engineer at [Microsoft](https://www.linkedin.com/company/microsoft/)
+- 💼 Currently working as an iOS Software Engineer 2 at [Microsoft](https://www.linkedin.com/company/microsoft/)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 Actively learning **SwiftUI**, **and Server Side Swifting with Vapor**
+- 📍 Currntly living in Xcode instruments, optimizing memory usage and performance of the SwiftKey iOS keyboard.
 - 📖 Reading **Asynchronous Programming with SwiftUI and Combine** by Peter Friese.
 - 💬 Talk to me about iOS, Books 📚, Video Games 🎮, and random tech nerds stuff 🤓. 
 - 📫 Reach me on hossamelbahrawy52@gmail.com
@@ -35,10 +35,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Sentry](https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59)

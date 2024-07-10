@@ -14,7 +14,7 @@
 - 🏦 iOS Software Engineer with a Bachelor's degree in Computer Engineering.
 - 💼 Currently working as an iOS Software Engineer 2 at [Microsoft](https://www.linkedin.com/company/microsoft/)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📍 Currntly living in Xcode instruments, optimizing memory usage and performance of the SwiftKey iOS keyboard.
+- 📍 Currently living in Xcode instruments, optimizing memory usage and performance of the SwiftKey iOS keyboard.
 - 📖 Reading **Asynchronous Programming with SwiftUI and Combine** by Peter Friese.
 - 💬 Talk to me about iOS, Books 📚, Video Games 🎮, and random tech nerds stuff 🤓. 
 - 📫 Reach me on hossamelbahrawy52@gmail.com

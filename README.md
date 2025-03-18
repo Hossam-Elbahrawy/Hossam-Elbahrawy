@@ -5,19 +5,17 @@
 
 [![Linkedin: hossam-elbahrawy](https://img.shields.io/badge/-hossam.bahrawy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hossam-bahrawy/)](https://www.linkedin.com/in/hossam-bahrawy/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/Hossam-Elbahrawy/)
-[![Goodreads](https://img.shields.io/badge/-Goodreads-FFA116?style=flat&logo=Goodreads&logoColor=black)](https://www.goodreads.com/user/show/28148177-hossam-elbahrawy)
 
 [![GitHub: Hossam-Elbahrawy](https://img.shields.io/github/followers/hossam-elbahrawy?label=follow&style=social)](https://github.com/Hossam-Elbahrawy)
 ![](https://komarev.com/ghpvc/?username=your-Hossam-ELbahrawy&style=flat)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 iOS Software Engineer with a Bachelor's degree in Computer Engineering.
-- 💼 Currently working as an iOS Software Engineer 2 at [Microsoft](https://www.linkedin.com/company/microsoft/)
+- 🏦 iOS Software Engineer II with a Bachelor's degree in Computer Engineering.
+- 💼 Currently working as an iOS Software Engineer II at [Microsoft](https://www.linkedin.com/company/microsoft/)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📍 Currently living in Xcode instruments, optimizing memory usage and performance of the SwiftKey iOS keyboard.
-- 📖 Reading **Asynchronous Programming with SwiftUI and Combine** by Peter Friese.
 - 💬 Talk to me about iOS, Books 📚, Video Games 🎮, and random tech nerds stuff 🤓. 
-- 📫 Reach me on hossamelbahrawy52@gmail.com
+- 📫 Reach me on h.bahrawy.work@gmail.com
 - 📄 Know about my experiences [Hossam-Bahrawy CV](https://github.com/Hossam-Elbahrawy/Hossam-Elbahrawy/blob/b571987a53f9df8a4b7f703077a9867e7403a5ee/Hossam%20Bahrawy%20iOS%20CV.pdf)
 
 <br />

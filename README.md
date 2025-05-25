@@ -16,7 +16,7 @@
 - 📍 Currently living in Xcode instruments, optimizing memory usage and performance of the SwiftKey iOS keyboard.
 - 💬 Talk to me about iOS, Books 📚, Video Games 🎮, and random tech nerds stuff 🤓. 
 - 📫 Reach me on h.bahrawy.work@gmail.com
-- 📄 Know about my experiences [My Resume](https://github.com/Hossam-Elbahrawy/Hossam-Elbahrawy/blob/de51a57ce9dae374923eda633131cf9aa5d3b4a0/Hossam-Bahrawy-Resume.pdf)
+- 📄 Know about my experiences [My Resume](/Hossam-Bahrawy-Resume.pdf)
 <br />
 
 # 💻 Tech Stack:
